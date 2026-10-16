@@ -553,6 +553,10 @@ MIT — используй свободно, в том числе в комме�
 ---
 
 **Приятного ревью! 🚀**
+
+
+
+
 An interactive dashboard for code analysis: builds a dependency graph,
 evaluates code quality, detects problem areas, and performs AI-powered
 reviews via OpenAI or local Ollama.
