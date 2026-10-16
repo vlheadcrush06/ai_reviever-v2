@@ -15,6 +15,8 @@
 оценивает качество, находит проблемные места и делает AI-ревью
 через OpenAI или локальный Ollama.
 
+**(Проверить приложение можно по ссылке | You can check out the app via the link: https://f78ddrjwdtezbrwrvcgds3.streamlit.app)**
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.36%2B-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
