@@ -1,11 +1,3 @@
-[README_EN.md](https://github.com/user-attachments/files/33527801/README_EN.md)
-[🇷🇺 Русский](README.md) | 🇬🇧 **English**
-
----
-[README_RU.md](https://github.com/user-attachments/files/33527815/README_RU.md)
-
-# 🧠 AI Code Reviewer & Repo Analytics Dashboard
-🇷🇺 **Русский** | [🇬🇧 English](README.en.md)
 
 ---
 
